@@ -31,6 +31,11 @@
 
 ## Usage
 
+### Database
+
+- create mysql table with 6 columns (id = auto increment(INT), title(VARCHAR), description(LONGTEXT), image(VARCHAR), price(DECIMAL), create_date(DATETIME))
+- name the table 'products_crud_php' or change the Database file to fit your db name.
+
 ### Install Dependencies (frontend & backend)
 
 ```
